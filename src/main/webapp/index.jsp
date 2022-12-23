@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to DevOps!</h1>
+<h1>CONGRATULATIONS!</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your project!</h2>
@@ -56,7 +56,7 @@
 <p>If you need any help the <strong><a href="http://boxfuse.com/docs">documentation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
 <p>Say goodbye to snowflake servers.</p>
-<p><strong>Enjoy DevOps!</strong></p>
+<p><strong>!</strong></Thanks for visiting>
 <% } %>
 </body>
 </html>
